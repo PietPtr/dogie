@@ -1,0 +1,22 @@
+{
+  "name": "dogie",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "irc": "~0.3.6",
+    "dogie-askreddit": "0.0.0",
+    "dogie-happyhour": "0.0.0",
+    "dogie-help": "0.0.0",
+    "dogie-locallogger": "0.0.0",
+    "dogie-pingpong": "0.0.0",
+    "dogie-summon": "0.0.0",
+    "dogie-dogechain": "0.0.0"
+  }
+}
